@@ -19,6 +19,6 @@ For employees with a lot on their plate, personally and professionally, this app
 Javascript, HTML5, CSS, Bootstrap, Moment.js
 
 # Author
-alexismanduke@gmail.com https://github.com/amanduke
+https://amanduke.github.io/work-day-scheduler/
 
 #repo https://github.com/amanduke/work-day-scheduler
